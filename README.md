@@ -1,24 +1,15 @@
-# README
+# chartmogul
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Please make sure you don't have postgres/redis/rails running locally and ports **5432, 6379, 3000** available, then run
 
-Things you may want to cover:
+Build docker images
+* docker compose build
 
-* Ruby version
+Run one time migration:
+* docker compose run web rails db:create db:migrate
 
-* System dependencies
+Bring up services:
+* docker compose up
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+In order to load universities data execute rake task as:
+* docker compose exec web rake hipolabs:discover\\["finland"\\]
