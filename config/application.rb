@@ -35,5 +35,8 @@ module Chartmogul
     config.middleware.use ActionDispatch::Cookies
 
     config.middleware.use config.session_store, config.session_options
+
+    # Load dotenv only in development or test environment
+    Dotenv::Railtie.load if %w[development test].include? ENV['RAILS_ENV']
   end
 end

@@ -1,0 +1,50 @@
+version: '3.5'
+services:
+  web:
+    build: .
+    volumes:
+      - .:/u/apps/chartmogul
+    ports:
+      - "3000:3000"
+    links:
+      - postgres
+      - redis
+    depends_on:
+      - postgres
+      - redis
+    working_dir: /u/apps/chartmogul
+    env_file:
+      - '.env'
+    environment:
+      POSTGRES_HOST: postgres
+    command: bin/rails server -b 0.0.0.0
+  sidekiq:
+    build: .
+    links:
+      - postgres
+      - redis
+    depends_on:
+      - 'postgres'
+      - 'redis'
+    env_file:
+      - '.env'
+    environment:
+      POSTGRES_HOST: postgres
+    command: bundle exec sidekiq
+  postgres:
+    image: postgres
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-postgres}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-changeme}
+      PGDATA: /data/postgres
+    volumes:
+       - postgres:/data/postgres
+    ports:
+      - "5432:5432"
+  redis:
+    image: redis
+    ports:
+      - "6379:6379"
+
+volumes:
+    postgres:

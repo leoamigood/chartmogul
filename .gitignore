@@ -34,3 +34,6 @@
 
 # IDE
 .idea/
+
+# code test coverage results
+coverage/

@@ -1,0 +1,848 @@
+[
+  {
+    "country": "Finland",
+    "domains": [
+      "abo.fi"
+    ],
+    "web_pages": [
+      "http://www.abo.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Abo Akademi University",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "cou.fi"
+    ],
+    "web_pages": [
+      "http://www.cou.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Central Ostrobothnia University of Applied Sciences",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "diak.fi"
+    ],
+    "web_pages": [
+      "http://www.diak.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Diaconia University of Applied Sciences",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "evtek.fi"
+    ],
+    "web_pages": [
+      "http://www.evtek.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "EVTEK University of Applied Sciences",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "helsinki.fi"
+    ],
+    "web_pages": [
+      "http://www.helsinki.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "University of Helsinki",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "hkkk.fi"
+    ],
+    "web_pages": [
+      "http://www.hkkk.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Helsinki School of Economics and Business Administration",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "hut.fi"
+    ],
+    "web_pages": [
+      "http://www.hut.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Helsinki University of Technology",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "joensuu.fi"
+    ],
+    "web_pages": [
+      "http://www.joensuu.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "University of Joensuu",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "jyu.fi"
+    ],
+    "web_pages": [
+      "http://www.jyu.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "University of Jyväskylä",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "kuva.fi"
+    ],
+    "web_pages": [
+      "http://www.kuva.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Academy of Fine Arts",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "lamk.fi",
+      "student.lamk.fi"
+    ],
+    "web_pages": [
+      "http://www.lamk.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Lahti Polytechnic",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "laurea.fi",
+      "student.laurea.fi"
+    ],
+    "web_pages": [
+      "http://www.laurea.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Laurea University of Applied Sciences",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "lut.fi",
+      "student.lut.fi"
+    ],
+    "web_pages": [
+      "http://www.lut.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Lappeenranta University of Technology",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "oamk.fi"
+    ],
+    "web_pages": [
+      "http://www.oamk.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Oulu Polytechnic",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "oulu.fi"
+    ],
+    "web_pages": [
+      "http://www.oulu.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "University of Oulu",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "puv.fi"
+    ],
+    "web_pages": [
+      "http://www.puv.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Vaasa University of Applied Sciences",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "ramk.fi"
+    ],
+    "web_pages": [
+      "http://www.ramk.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Rovaniemi University of Applied Sciences",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "sabi.eu.com"
+    ],
+    "web_pages": [
+      "http://www.sabi.eu.com/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Scandinavian Art and Business Institute",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "samk.fi"
+    ],
+    "web_pages": [
+      "http://www.samk.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Satakunta University Of Applied Scinces",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "scp.fi"
+    ],
+    "web_pages": [
+      "http://www.scp.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "South Carelian Polytechnic",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "shh.fi"
+    ],
+    "web_pages": [
+      "http://www.shh.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Swedish School of Economics and Business Administration, Finland",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "siba.fi"
+    ],
+    "web_pages": [
+      "http://www.siba.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Sibelius Academy",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "teak.fi"
+    ],
+    "web_pages": [
+      "http://www.teak.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Theatre Academy Finland",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "tpu.fi"
+    ],
+    "web_pages": [
+      "http://www.tpu.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Tampere Polytechnic",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "tukkk.fi"
+    ],
+    "web_pages": [
+      "http://www.tukkk.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Turku School of Economics and Business Administration",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "tut.fi"
+    ],
+    "web_pages": [
+      "http://www.tut.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Tampere University of Technology",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "uiah.fi"
+    ],
+    "web_pages": [
+      "http://www.uiah.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "University of Art and Design Helsinki",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "uku.fi"
+    ],
+    "web_pages": [
+      "http://www.uku.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "University of Kuopio",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "ulapland.fi"
+    ],
+    "web_pages": [
+      "http://www.ulapland.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "University of Lapland",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "uta.fi"
+    ],
+    "web_pages": [
+      "http://www.uta.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "University of Tampere",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "utu.fi"
+    ],
+    "web_pages": [
+      "http://www.utu.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "University of Turku",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "uwasa.fi"
+    ],
+    "web_pages": [
+      "http://www.uwasa.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "University of Vaasa",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "aalto.fi"
+    ],
+    "web_pages": [
+      "https://www.aalto.fi"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Aalto University",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "metropolia.fi"
+    ],
+    "web_pages": [
+      "https://www.metropolia.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Metropolia University of Applied Sciences",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "hamk.fi"
+    ],
+    "web_pages": [
+      "https://www.hamk.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Häme University of Applied Sciences",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "abo.fi"
+    ],
+    "web_pages": [
+      "http://www.abo.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Abo Akademi University",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "cou.fi"
+    ],
+    "web_pages": [
+      "http://www.cou.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Central Ostrobothnia University of Applied Sciences",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "diak.fi"
+    ],
+    "web_pages": [
+      "http://www.diak.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Diaconia University of Applied Sciences",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "evtek.fi"
+    ],
+    "web_pages": [
+      "http://www.evtek.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "EVTEK University of Applied Sciences",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "helsinki.fi"
+    ],
+    "web_pages": [
+      "http://www.helsinki.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "University of Helsinki",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "hkkk.fi"
+    ],
+    "web_pages": [
+      "http://www.hkkk.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Helsinki School of Economics and Business Administration",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "hut.fi"
+    ],
+    "web_pages": [
+      "http://www.hut.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Helsinki University of Technology",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "joensuu.fi"
+    ],
+    "web_pages": [
+      "http://www.joensuu.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "University of Joensuu",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "jyu.fi"
+    ],
+    "web_pages": [
+      "http://www.jyu.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "University of Jyväskylä",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "kuva.fi"
+    ],
+    "web_pages": [
+      "http://www.kuva.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Academy of Fine Arts",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "lamk.fi",
+      "student.lamk.fi"
+    ],
+    "web_pages": [
+      "http://www.lamk.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Lahti Polytechnic",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "laurea.fi",
+      "student.laurea.fi"
+    ],
+    "web_pages": [
+      "http://www.laurea.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Laurea University of Applied Sciences",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "lut.fi",
+      "student.lut.fi"
+    ],
+    "web_pages": [
+      "http://www.lut.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Lappeenranta University of Technology",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "oamk.fi"
+    ],
+    "web_pages": [
+      "http://www.oamk.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Oulu Polytechnic",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "oulu.fi"
+    ],
+    "web_pages": [
+      "http://www.oulu.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "University of Oulu",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "puv.fi"
+    ],
+    "web_pages": [
+      "http://www.puv.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Vaasa University of Applied Sciences",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "ramk.fi"
+    ],
+    "web_pages": [
+      "http://www.ramk.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Rovaniemi University of Applied Sciences",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "sabi.eu.com"
+    ],
+    "web_pages": [
+      "http://www.sabi.eu.com/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Scandinavian Art and Business Institute",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "samk.fi"
+    ],
+    "web_pages": [
+      "http://www.samk.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Satakunta University Of Applied Scinces",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "scp.fi"
+    ],
+    "web_pages": [
+      "http://www.scp.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "South Carelian Polytechnic",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "shh.fi"
+    ],
+    "web_pages": [
+      "http://www.shh.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Swedish School of Economics and Business Administration, Finland",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "siba.fi"
+    ],
+    "web_pages": [
+      "http://www.siba.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Sibelius Academy",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "teak.fi"
+    ],
+    "web_pages": [
+      "http://www.teak.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Theatre Academy Finland",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "tpu.fi"
+    ],
+    "web_pages": [
+      "http://www.tpu.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Tampere Polytechnic",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "tukkk.fi"
+    ],
+    "web_pages": [
+      "http://www.tukkk.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Turku School of Economics and Business Administration",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "tut.fi"
+    ],
+    "web_pages": [
+      "http://www.tut.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Tampere University of Technology",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "uiah.fi"
+    ],
+    "web_pages": [
+      "http://www.uiah.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "University of Art and Design Helsinki",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "uku.fi"
+    ],
+    "web_pages": [
+      "http://www.uku.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "University of Kuopio",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "ulapland.fi"
+    ],
+    "web_pages": [
+      "http://www.ulapland.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "University of Lapland",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "uta.fi"
+    ],
+    "web_pages": [
+      "http://www.uta.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "University of Tampere",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "utu.fi"
+    ],
+    "web_pages": [
+      "http://www.utu.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "University of Turku",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "uwasa.fi"
+    ],
+    "web_pages": [
+      "http://www.uwasa.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "University of Vaasa",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "aalto.fi"
+    ],
+    "web_pages": [
+      "https://www.aalto.fi"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Aalto University",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "metropolia.fi"
+    ],
+    "web_pages": [
+      "https://www.metropolia.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Metropolia University of Applied Sciences",
+    "state-province": null
+  },
+  {
+    "country": "Finland",
+    "domains": [
+      "hamk.fi"
+    ],
+    "web_pages": [
+      "https://www.hamk.fi/"
+    ],
+    "alpha_two_code": "FI",
+    "name": "Häme University of Applied Sciences",
+    "state-province": null
+  }
+]
